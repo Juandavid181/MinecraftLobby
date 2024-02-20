@@ -9,6 +9,7 @@ Hi! I'm  **Lucast1574**. I came up with this solution, for using codespaces in o
 - Remenber to follow all the steps on the tutorial video:
 - And subscribre to me on youtube and follow me in all my social media 
 - [Lucast on youtube](https://www.youtube.com/channel/UCBFHVQoUZYyd2w5S18Nb3Lg)
+- Disclaimer: **TO USE FORGE, YOU MUST INSTALL MOHIST TOO**
 
 #Español
 
@@ -18,3 +19,5 @@ Hola soy, **Lucast1574**. Tuve la idea de hacer esto posible, crear servidores d
 - Recuerda seguir todas las instrucciones del video en youtube:
 - Y subscribete a mi canal de youtube y sigueme en todas mis redes sociales 
 - [Lucast en youtube](https://www.youtube.com/channel/UCBFHVQoUZYyd2w5S18Nb3Lg)
+- 
+- Advertencia: **PARA USAR FORGE, ES OBLIGATORIO TAMBIEN INSTALAR MOHIST**
