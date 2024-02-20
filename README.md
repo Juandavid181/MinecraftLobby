@@ -1,4 +1,6 @@
-# MSP_MINECRAFT-SERVER-PROJECT ![enter image description here](https://raw.githubusercontent.com/Luc4st1574/MSP_MINECRAFT-SERVER-PROJECT/main/msp%20logo.png)
+# MSP_MINECRAFT-SERVER-PROJECT
+
+![enter image description here](https://raw.githubusercontent.com/Luc4st1574/MSP_MINECRAFT-SERVER-PROJECT/main/msp%20logo.png)
 
 #English
 
